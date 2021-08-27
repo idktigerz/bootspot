@@ -1,0 +1,29 @@
+.single-product{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    width: 875px;
+    height: 850px;
+    padding-right: 20%;
+    padding-bottom: 30px;
+    ;
+}
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto
+}
+.container {
+    min-width: 992px !important
+}
+.container-fluid {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto
+}
+.space {
+    height:100px;
+}

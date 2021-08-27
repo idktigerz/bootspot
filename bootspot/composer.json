@@ -1,0 +1,6 @@
+{
+    "name": "resen/karma",
+    "require": {
+        "phpmailer/phpmailer": "^6.3"
+    }
+}
